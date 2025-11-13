@@ -1,0 +1,165 @@
+{
+  "configVersion": "1.0.1",
+  "requiredMods": [
+    {
+      "modId": "sophisticatedbackpacks",
+      "name": "Sophisticated Backpacks",
+      "source": "curseforge",
+      "projectId": "979322",
+      "fileName": "sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "15ec32d411a70384743a5770ae6a22b71a8418af7f8eebbffac7bfc8a1836c0f"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "name": "Forge Config API Port",
+      "source": "curseforge",
+      "projectId": "547434",
+      "fileName": "ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "5ccccdd51341de19d85afce9d12fff7e340aefcce5acd4dcad4f9cb997ae5f56"
+    },
+    {
+      "modId": "sophisticatedcore",
+      "name": "Sophisticated Core",
+      "source": "curseforge",
+      "projectId": "979317",
+      "fileName": "sophisticatedcore-1.20.1-1.2.7.14.163.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "66c00dd1118e60d718220dabb3d9408f4574928efe8e9361d76cc4f3690b7127"
+    },
+    {
+      "modId": "indium",
+      "name": "Indium",
+      "source": "modrinth",
+      "projectId": "Orvt0mRa",
+      "fileName": "indium-1.0.36+mc1.20.1.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999"
+    },
+    {
+      "modId": "sodium",
+      "name": "Sodium",
+      "source": "curseforge",
+      "projectId": "394468",
+      "fileName": "sodium-fabric-0.5.13+mc1.20.1.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22"
+    },
+    {
+      "modId": "carryon",
+      "name": "Carry On",
+      "source": "curseforge",
+      "projectId": "274259",
+      "fileName": "carryon-fabric-1.20.1-2.1.2.7.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd"
+    },
+    {
+      "modId": "croptopia",
+      "name": "Croptopia",
+      "source": "curseforge",
+      "projectId": "415438",
+      "fileName": "Croptopia-1.20.1-FABRIC-3.0.4.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "f04b09bdd0c6843b3282efcd39203e747ef1cbef1277d5eef9c6c674c75fc854"
+    },
+    {
+      "modId": "epherolib",
+      "name": "EpheroLib",
+      "source": "curseforge",
+      "projectId": "885449",
+      "fileName": "EpheroLib-1.20.1-FABRIC-1.2.0.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "3a7dcb89852e172c6a6aea47994d82506f159852525ccea4683dbbdc9bbd77b2"
+    },
+    {
+      "modId": "extrakeybinds",
+      "name": "ThatRobins Extra Origins Keybinds",
+      "source": "curseforge",
+      "projectId": "474612",
+      "fileName": "extrakeybinds-0.5.0+1.17-1.19.4.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "b25a2cbe80a2de1f6555a10e9bc3e992b64f5463ab16c0a0d01043c2b649d9df"
+    },
+    {
+      "modId": "framework",
+      "name": "Framework",
+      "source": "curseforge",
+      "projectId": "549225",
+      "fileName": "framework-fabric-1.20.1-0.7.15.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "c44101a83a01b2a9daa6388ec171314e827048ef5ea572fd7b5239b851658690"
+    },
+    {
+      "modId": "jei",
+      "name": "Just Enough Items",
+      "source": "modrinth",
+      "projectId": "u6dRKJwZ",
+      "fileName": "jei-1.20.1-fabric-15.20.0.112.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "1801d77ccd6cbb30d0b08fbe6b4c5f44f4e1054932a7a6192602a93b6fc9ad17"
+    },
+    {
+      "modId": "moborigins",
+      "name": "Mob Origins",
+      "source": "curseforge",
+      "projectId": "449974",
+      "fileName": "moborigins-1.11.1.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "a417e6ef6f8217caf9facf0173ae7f31bb7a3ced6b8b4e16abbaf6f26c8af084"
+    },
+    {
+      "modId": "origins",
+      "name": "Origins",
+      "source": "curseforge",
+      "projectId": "391943",
+      "fileName": "Origins-1.20.1-1.10.0.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "c022f72118f6fc26ce2888ba4d09f11b303b1c586a4fa565e7292ebf3b838adb"
+    },
+    {
+      "modId": "pehkui",
+      "name": "Pehkui",
+      "source": "curseforge",
+      "projectId": "319596",
+      "fileName": "Pehkui-3.8.3+1.14.4-1.21.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b"
+    },
+    {
+      "modId": "refurbished_furniture",
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "source": "curseforge",
+      "projectId": "897116",
+      "fileName": "refurbished_furniture-fabric-1.20.1-1.0.14.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "52518b9ebd4cf7229bd0897e90ee17fdd46263aad3d4f20cb2bb81d4c7a036cf"
+    },
+    {
+      "modId": "voicechat",
+      "name": "Simple Voice Chat",
+      "source": "curseforge",
+      "projectId": "416089",
+      "fileName": "voicechat-fabric-1.20.1-2.5.35.jar",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "fabric",
+      "sha256": "d77621fb932776450a63921e75ad3cba327376521d5a99ab026d6d30d9645893"
+    }
+  ]
+}
